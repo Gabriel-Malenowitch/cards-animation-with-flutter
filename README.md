@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # cards-animation-with-flutter
+![image](https://github.com/Gabriel-Malenowitch/cards-animation-with-flutter/assets/56513919/656c8497-37a4-43f0-b79e-241d17d72440)
+![image](https://github.com/Gabriel-Malenowitch/cards-animation-with-flutter/assets/56513919/f869d309-560d-4467-a513-38238da7c676)
+
